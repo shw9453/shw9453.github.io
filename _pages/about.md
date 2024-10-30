@@ -4,6 +4,15 @@ title: "About"
 classes: wide
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+### Biography
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Eric (shw) is a security researcher focusing on Web3 and blockchain security. His expertise is in auditing Solidity / EVM-based smart contracts and DeFi protocols.
+
+He started doing audit competitions on Code4rena in 2021 and reached 6th place (and 8th place as a group) by the end of the year. He then worked on private audits and joined Spearbit in 2022. Before Web3, he pursued a master's in Information Security and participated in some CTFs.
+
+Some of his prior work:
+
+- [Profile on Code4rena](https://code4rena.com/@shw)
+- [Profile on Cantina](https://cantina.xyz/u/shw)
+- [Bug disclosure](https://medium.com/balancer-protocol/bug-bounty-progress-disclosure-d408d2812791)
+- [Personal blog](https://shw9453.github.io/)
