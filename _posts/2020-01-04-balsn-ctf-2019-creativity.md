@@ -7,9 +7,9 @@ tags:
   - smart contract
 ---
 
-# Challenge
-
 `Creativity` is one of my two smart contract challenges for [Balsn CTF 2019](https://github.com/balsn/balsn-ctf-2019). You may find the source files [here](https://github.com/shw9453/balsn-ctf-2019).
+
+# Challenge
 
 > Be concise, or be creative.
 

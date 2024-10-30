@@ -7,9 +7,9 @@ tags:
   - smart contract
 ---
 
-# Challenge
-
 For Balsn CTF 2020 online, I also created two smart-contract challenges, `Election` and `IdleGame`. The source files of them are available on [GitHub - shw9453/my-ctf-challenges](https://github.com/shw9453/my-ctf-challenges). Here is a walkthrough of the challenge `IdleGame`.
+
+# Challenge
 
 > Thinking about making money by playing games? Try the first idle game on the blockchain!
 

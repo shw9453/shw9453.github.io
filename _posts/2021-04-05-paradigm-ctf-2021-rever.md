@@ -9,6 +9,8 @@ tags:
 
 In Feb. this year, I and some other Balsn members participated in [Paradigm CTF](https://ctf.paradigm.xyz/), an Ethereum-focused security competition held by [Paradigm](https://twitter.com/paradigm). First of all, thanks to the organizers for preparing such high-quality and impressive challenges! Luckily, our team, `whoami`, got fourth place with 11 out of 17 challenges solved.
 
+![pctf-solve.png](https://shw9453.github.io/assets/images/pctf-solve.png)
+
 When browsing the [official repository](https://github.com/paradigm-operations/paradigm-ctf-2021), I noticed a clever trick used in a coding challenge, `REVER`, and wondered whether I could improve the solution furthermore. Here, I will share the optimal solution I can develop and some tips for EVM bytecode golfing.
 
 # Challenge
